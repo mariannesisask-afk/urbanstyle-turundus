@@ -4,7 +4,7 @@
 **Nädal:** 0  
 **Tegelane:** Toomas Kask
 
-## Kõik süsteemid ühendatud!
+## Selle nädala põhieesmärk täidetud - kõik süsteemid on ühendatud!
 
 ### GitHub
 
@@ -28,6 +28,7 @@ README + meeskonna ühine töö ja dokumentatsioon
 
 ### Team Charter 
 [Team Charter](https://github.com/mariannesisask-afk/urbanstyle-turundus/blob/main/charter.md)
+
 
 ## Suurim üllatus:
 Vastata nädal 0 lõpus

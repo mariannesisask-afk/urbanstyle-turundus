@@ -1,4 +1,4 @@
-# TURUNDUS -- UrbanStyle.ltd Andmemeeskond
+# Meeskond TURUNDUS -- UrbanStyle.ltd
 
 ## Meeskonnaliikmed
 
@@ -11,4 +11,4 @@
 
 ## Meie eesmärk
 
-Töötame TURUNDUS meeskonnana UrbanStyle.ltd andmeanalüüsi ülesannete kallal ning see on meie ühine töökeskkond edasiseks meeskonnatööks.
+Töötame TURUNDUS meeskonnana UrbanStyle andmeanalüüsi ülesannete kallal ning see on meie ühine töökeskkond edasiseks meeskonnatööks.

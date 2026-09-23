@@ -10,7 +10,7 @@ Selle nädala jooksul seadistame ja ühendame järgmised keskkonnad:
 
 - GitHub – meeskonna ühine repo ja dokumentatsioon
 - Supabase – ühine andmebaas
-- NotebookLM – ühine õppimise ja RAG keskkond
+- NotebookLM – ühine õppimiskeskkond
 - Team Charter – meeskonna ühised kokkulepped 
 
 ## Olulised lingid

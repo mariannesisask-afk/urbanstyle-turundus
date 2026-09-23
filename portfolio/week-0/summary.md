@@ -8,7 +8,7 @@
 
 ### GitHub
 
-**Repository:** https://github.com/mariannesisask-afk/urbanstyle-turundus
+**Repo:** [Meeskonna GitHubi repo](https://github.com/mariannesisask-afk/urbanstyle-turundus)
 
 README + meeskonna ühine töö ja dokumentatsioon
 
@@ -16,9 +16,9 @@ README + meeskonna ühine töö ja dokumentatsioon
 
 **Projekt:** urbanstyle-marketing-data
 
-**URL:** https://zmjxeqbcezceifghxxpu.supabase.co
+**URL:** - [urbanstyle-marketing-data](https://supabase.com/dashboard/project/zmjxeqbcezceifghxxpu)
 
-**Tabelid:** `team_members` + `team_charter`
+**Tabelid:** team_members + team_charter
 
 ### NotebookLM
 
@@ -26,9 +26,8 @@ README + meeskonna ühine töö ja dokumentatsioon
 
 **Sisu:** 4 CORE RAG + Audio Overview
 
-### Team Charter
-
-Team Charter asub Supabase'is ning toimib meie meeskonna ühiste kokkulepete alusena
+### Team Charter 
+[Team Charter](https://github.com/mariannesisask-afk/urbanstyle-turundus/blob/main/charter.md)
 
 ## Suurim üllatus:
 Vastata nädal 0 lõpus

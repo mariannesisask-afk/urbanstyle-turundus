@@ -2,7 +2,7 @@
 
 ## Nädala eesmärk
 
-Nädal 0 eesmärk oli seadistada UrbanStyle meeskonnale nimega TURUNDUS ühine töökeskkond, panna paika rollid ja koostööpõhimõtted.
+Nädal 0 eesmärk oli seadistada UrbanStyle meeskonnale nimega TURUNDUS ühine töökeskkond, panna paika rollid ja koostööpõhimõtted
 
 ## Nädal 0 väljundid
 

@@ -1,4 +1,4 @@
-# TURUNDUS -- UrbanStyle.ltd Andmemeeskond
+# TURUNDUS - UrbanStyle.ltd Andmemeeskond
 
 ## Meeskonnaliikmed
 

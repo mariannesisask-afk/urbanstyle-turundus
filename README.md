@@ -11,4 +11,4 @@
 
 ## Meie eesmärk
 
-Töötame TURUNDUS meeskonnana UrbanStyle andmeanalüüsi ülesannete kallal ning see on meie ühine töökeskkond edasiseks meeskonnatööks.
+Töötame TURUNDUS meeskonnana UrbanStyle andmeanalüüsi ülesannete kallal ning see on meie ühine töökeskkond edasiseks meeskonnatööks

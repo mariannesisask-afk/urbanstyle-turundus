@@ -19,17 +19,16 @@ Meeskonna ühine GitHubi repo, kus hoiame projekti faile ja dokumentatsiooni.
 
 ### Supabase
 
-**Projekt:** [urbanstyle-marketing-data](https://zmjxeqbcezceifghxxpu.supabase.co)
+[urbanstyle-marketing-data](https://zmjxeqbcezceifghxxpu.supabase.co)
 
 ### NotebookLM
 
-**Notebook:** Lisa Notebook jagamislink
+Lisa Notebook jagamislink
 
 ### Team Charter
 
-**Asukoht:** Team Charter asub meie ühise Supabase projekti `team_charter` tabelis.
+[Team Charter](https://github.com/mariannesisask-afk/urbanstyle-turundus/blob/main/charter.md)
 
-**Supabase:** [urbanstyle-marketing-data](https://zmjxeqbcezceifghxxpu.supabase.co)
 
 ## Kuidas seda portfooliot lugeda?
 
@@ -37,7 +36,7 @@ See portfoolio on meie meeskonna töö kaart, kust leiab ühiste süsteemide lin
 
 ## Portfoolio struktuur
 
-- `week-0/` – Nädal 0 materjalid ja väljundid
-- `week-1/` – Nädal 1 materjalid ja väljundid
-- `week-2/` – Nädal 2 materjalid ja väljundid
-- `week-3/` – Nädal 3 materjalid ja väljundid
+- week-0/ – Nädal 0 materjalid ja väljundid
+- week-1/ – Nädal 1 materjalid ja väljundid
+- week-2/ – Nädal 2 materjalid ja väljundid
+- week-3/ – Nädal 3 materjalid ja väljundid

@@ -1,4 +1,4 @@
-# Nädal 0 kokkuvõte
+# Nädal 0
 
 ## Nädala eesmärk
 

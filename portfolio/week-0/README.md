@@ -16,9 +16,9 @@ Selle nädala jooksul seadistame ja ühendame järgmised keskkonnad:
 ## Olulised lingid
 
 - [Meeskonna GitHubi repo](https://github.com/mariannesisask-afk/urbanstyle-turundus)
-- [Supabase projekt](https://zmjxeqbcezceifghxxpu.supabase.co)
+- [urbanstyle-marketing-data](https://supabase.com/dashboard/project/zmjxeqbcezceifghxxpu)
 - NotebookLM – link lisatakse pärast jagamislingi saamist
-- Team Charter – Asub [Supabase projekt](https://zmjxeqbcezceifghxxpu.supabase.co)is Team Charter tabelina
+- Team Charter – [Team Charter](https://github.com/mariannesisask-afk/urbanstyle-turundus/blob/main/charter.md)
 
   
   

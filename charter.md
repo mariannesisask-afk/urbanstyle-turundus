@@ -18,7 +18,7 @@
 
 - Suhtluskanal: 
 - GitHub repo: https://github.com/mariannesisask-afk/urbanstyle-turundus
-- Supabase: https://zmjxeqbcezceifghxxpu.supabase.co
+- Supabase: - [urbanstyle-marketing-data](https://supabase.com/dashboard/project/zmjxeqbcezceifghxxpu)
 - NotebookLM: Lisa siia jagamislink
 
 ## KOKKULEPPED

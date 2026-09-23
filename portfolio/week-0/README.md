@@ -17,7 +17,7 @@ Selle nädala jooksul seadistame ja ühendame järgmised keskkonnad:
 
 - [Meeskonna GitHubi repo](https://github.com/mariannesisask-afk/urbanstyle-turundus)
 - [urbanstyle-marketing-data](https://supabase.com/dashboard/project/zmjxeqbcezceifghxxpu)
-- NotebookLM – link lisatakse pärast jagamislingi saamist
+- NotebookLM – [NotebookLM](https://notebook.google.com/notebook/f9354874-bf7f-4bc1-a5eb-afa9c8f3f87f)
 - Team Charter – [Team Charter](https://github.com/mariannesisask-afk/urbanstyle-turundus/blob/main/charter.md)
 
   

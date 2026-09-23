@@ -2,7 +2,7 @@
 
 ## Meeskonnaliikmed
 
-| Nimi | Roll (Nädal 1) | OS |
+| Nimi | Roll (Nädal 0) | OS |
 |---|---|---|
 | Marianne Sisask | A: GitHub Repo Seadistaja | Mac |
 | Kerty Kaljumäe | B: Supabase Seadistaja | Windows |
@@ -11,4 +11,4 @@
 
 ## Meie eesmärk
 
-Töötame TURUNDUS meeskonnana UrbanStyle.ltd andmeanalüüsi ülesannete kallal ning seadistame ühise töökeskkonna edasiseks meeskonnatööks.
+Töötame TURUNDUS meeskonnana UrbanStyle.ltd andmeanalüüsi ülesannete kallal ning see on meie ühine töökeskkond edasiseks meeskonnatööks.

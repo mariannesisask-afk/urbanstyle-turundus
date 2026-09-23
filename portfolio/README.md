@@ -20,19 +20,24 @@ Meeskonna ühine GitHubi repo, kus hoiame projekti faile ja dokumentatsiooni.
 ### Supabase
 
 [urbanstyle-marketing-data](https://zmjxeqbcezceifghxxpu.supabase.co)
-
+ 
+Ühine andmebaas 
+ 
 ### NotebookLM
 
 Lisa Notebook jagamislink
+
+Ühine õppimiskeskkond
 
 ### Team Charter
 
 [Team Charter](https://github.com/mariannesisask-afk/urbanstyle-turundus/blob/main/charter.md)
 
+Meeskonna ühised kokkulepped
 
 ## Kuidas seda portfooliot lugeda?
 
-See portfoolio on meie meeskonna töö kaart, kust leiab ühiste süsteemide lingid ja nädala kaupa kogunevad projekti materjalid. Iga nädala kausta lisame selle nädala olulisemad dokumendid, vastused ja muud väljundid.
+See portfoolio on meie sisukaart, kust leiab ühiste süsteemide lingid ja nädala kaupa kogunevad projekti materjalid. Iga nädala kausta lisame selle nädala olulisemad dokumendid, vastused ja muud väljundid.
 
 ## Portfoolio struktuur
 

@@ -17,7 +17,7 @@
 ## ÜHISED TÖÖRIISTAD
 
 - Suhtluskanal: Google Chat
-- GitHub repo: https://github.com/mariannesisask-afk/urbanstyle-turundus
+- GitHub repo: [urbanstyle-turundus](https://github.com/mariannesisask-afk/urbanstyle-turundus)
 - Supabase: - [urbanstyle-marketing-data](https://supabase.com/dashboard/project/zmjxeqbcezceifghxxpu)
 - NotebookLM: [Lisa siia jagamislink](https://notebook.google.com/notebook/f9354874-bf7f-4bc1-a5eb-afa9c8f3f87f)
 
@@ -36,7 +36,7 @@ Aitame probleemi defineerimisega, et leida spetsiifiline lahendus tekkinud probl
  Tavapäraselt chatis, mahukamad failid meilis, kõik failid talletatakse GtHubis 
  
  
-ROLLIDE ROTATSIOON
+## ROLLIDE ROTATSIOON
  
 Nädal 1
 A = Marianne Sisask

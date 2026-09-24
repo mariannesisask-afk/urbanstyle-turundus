@@ -31,10 +31,10 @@ README + meeskonna ühine töö ja dokumentatsioon
 
 
 ## Suurim üllatus:
-Vastata nädal 0 lõpus
+Suurimaks üllatuseks oli esimese nädala suuremahuline ajakulu dokumentidega tutvumisel ja ülesannete täitmisel
 
 ## Soovitus Toomasele:
-Vastata nädal 0 lõpus
+Planeerida rohkem aega
 
 ## Puuduvad andmed:
-Vastata nädal 0 lõpus
+Vajalikud andmed olid olemas

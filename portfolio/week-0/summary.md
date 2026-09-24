@@ -22,7 +22,7 @@ README + meeskonna ühine töö ja dokumentatsioon
 
 ### NotebookLM
 
-**Jagamislink:** Lisada peale lingi saamist
+**Jagamislink:** [Notebook](https://notebook.google.com/notebook/f9354874-bf7f-4bc1-a5eb-afa9c8f3f87f)
 
 **Sisu:** 4 CORE RAG + Audio Overview
 

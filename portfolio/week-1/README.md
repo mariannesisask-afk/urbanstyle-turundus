@@ -15,7 +15,7 @@ Nädal 1 eesmärk on uurida UrbanStyle.ltd andmeid SQL-i abil ning saada esmane 
 
 Enne analüüsi tegemist on oluline mõista, mida andmed tegelikult sisaldavad ja kas neid saab usaldusväärselt kasutada.
 
-# 1. Ühine Supabase'i keskkond
+## Ühine Supabase'i keskkond
 
 Week 1 töö jaoks kasutame meeskonna ühist Supabase'i projekti: `urbanstyle-marketing-data`
 

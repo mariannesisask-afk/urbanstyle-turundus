@@ -38,25 +38,25 @@ Aitame probleemi defineerimisega, et leida spetsiifiline lahendus tekkinud probl
  
 ## ROLLIDE ROTATSIOON
  
-Nädal 1
+Nädal 0
 A = Marianne Sisask
 B = Kerty Kaljumäe
 C = Katariina Raid
 D = Hannes Saarmets
  
-Nädal 2
+Nädal 1
 A = Hannes Saarmets
 B = Marianne Sisask
 C =Kerty Kaljumäe
 D = Katariina Raid
  
-Nädal 3
+Nädal 2
 A = Katariina Raid
 B = Hannes Saarmets
 C = Marianne Sisask
 D =Kerty Kaljumäe
  
-Nädal 4
+Nädal 3
 A = Kerty Kaljumäe
 B =Katariina Raid
 C =Hannes Saarmets

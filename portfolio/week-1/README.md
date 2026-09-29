@@ -17,13 +17,11 @@ Enne analüüsi tegemist on oluline mõista, mida andmed tegelikult sisaldavad j
 
 # 1. Ühine Supabase'i keskkond
 
-Week 1 töö jaoks kasutame meeskonna ühist Supabase'i projekti:
+Week 1 töö jaoks kasutame meeskonna ühist Supabase'i projekti: `urbanstyle-marketing-data`
 
-**Projekt:** `urbanstyle-marketing-data`
 
-Andmebaasi loomiseks kasutasime UrbanStyle'i ametlikku:
+Andmebaasi loomiseks kasutasime UrbanStyle'i ametlikku skeemi: `urbanstyle_schema.sql`
 
-`urbanstyle_schema.sql`
 
 Skeemi põhjal loodi järgmised UrbanStyle'i tabelid:
 
@@ -38,4 +36,12 @@ Skeemi põhjal loodi järgmised UrbanStyle'i tabelid:
 
 Andmete importimisel lähtusime tabelite struktuurist.
 
+## Meeskonnaliikmete rollid
+
+| Nimi | Roll (Nädal 1) | OS |
+|---|---|---|
+| Hannes Saarmets | A: Sales Data Explorer | Mac |
+| Marianne Sisask | B: Customer Data Explorer | Mac |
+| Kerty Kaljumäe | C: Product Data Explorer | Windows |
+| Katariina Raid | D: Sales Dimensions Explorer | Windows |
 

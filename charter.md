@@ -3,16 +3,16 @@
 ## LIIKMED
 
 1. Hannes Saarmets (OS: Mac)
-   Roll nädalal 1: GitHub repo seadistaja
+   Roll nädalal 1: Müügitehingud (sales tabeli summad ja kuupäevad)
 
 2. Marianne Sisask OS: Mac)
-   Roll nädalal 1: Supabase seadistaja
+   Roll nädalal 1: Kliendiandmed (customers tabel)
 
 3. Kerty Kaljumäe (OS: Windows) 
-   Roll nädalal 1: NotebookLM seadistaja
+   Roll nädalal 1: Tooteandmed (products tabel)
 
 4. Katariina Raid (OS: Windows)
-   Roll nädalal 1: Team Charter koostaja
+   Roll nädalal 1: Müügikanalid ja asukohad (sales tabeli kanalid ja poed)
 
 ## ÜHISED TÖÖRIISTAD
 

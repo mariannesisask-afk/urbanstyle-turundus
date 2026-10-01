@@ -2,17 +2,17 @@
 
 ## LIIKMED
 
-1. Marianne Sisask (OS: Mac)
-   Roll nädalal 0: GitHub repo seadistaja
+1. Hannes Saarmets (OS: Mac)
+   Roll nädalal 1: GitHub repo seadistaja
 
-2. Kerty Kaljumäe (OS: Windows)
-   Roll nädalal 0: Supabase seadistaja
+2. Marianne Sisask OS: Mac)
+   Roll nädalal 1: Supabase seadistaja
 
-3. Katariina Raid (OS: Windows)
-   Roll nädalal 0: NotebookLM seadistaja
+3. Kerty Kaljumäe (OS: Windows) 
+   Roll nädalal 1: NotebookLM seadistaja
 
-4. Hannes Saarmets (OS: Mac)
-   Roll nädalal 0: Team Charter koostaja
+4. Katariina Raid (OS: Windows)
+   Roll nädalal 1: Team Charter koostaja
 
 ## ÜHISED TÖÖRIISTAD
 

@@ -25,7 +25,7 @@ Meeskonna ühine GitHubi repo, kus hoiame projekti faile ja dokumentatsiooni.
  
 ### NotebookLM
 
-(https://notebook.google.com/notebook/f9354874-bf7f-4bc1-a5eb-afa9c8f3f87f)
+[urbanstyle-notebook](https://notebook.google.com/notebook/f9354874-bf7f-4bc1-a5eb-afa9c8f3f87f)
 
 Ühine õppimiskeskkond
 

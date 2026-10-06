@@ -25,14 +25,14 @@ Andmebaasi loomiseks kasutasime UrbanStyle'i ametlikku skeemi: `urbanstyle_schem
 
 Skeemi põhjal loodi järgmised UrbanStyle'i tabelid:
 
-- `suppliers`
-- `products`
-- `customers`
-- `sales`
-- `web_logs`
-- `inventory`
-- `inventory_movements`
-- `promotions`
+- suppliers
+- products
+- customers
+- sales
+- web_logs
+- inventory
+- inventory_movements
+- promotions
 
 Andmete importimisel lähtusime tabelite struktuurist.
 

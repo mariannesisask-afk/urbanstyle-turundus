@@ -23,4 +23,7 @@ Nädal 2 eesmärk on muuta UrbanStyle.ltd andmed usaldusväärseks. Selleks puha
 | Kerty Kaljumäe | D: Ristvalideerimine ja kvaliteedikontroll | Windows |
 
 ## Väljund
+
+Meeskonna koondraport puhastamise tulemustega:
+
 [W2-session3-demo](https://docs.google.com/presentation/d/1eH0oy5EjVSSXujXePEVqBoE1ndanLZXcpGtI95Zl9yA/edit?usp=sharing)

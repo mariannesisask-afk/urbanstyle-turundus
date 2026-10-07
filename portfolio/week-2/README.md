@@ -5,7 +5,7 @@ Nädal 2 töö jaoks kasutame meeskonna ühist Supabase'i projekti: `urbanstyle-
 
 ## Nädala eesmärk
 
-Nädal 2 eesmärk on UrbanStyle.ltd andmete puhastamine SQL-iga, mille käigus:
+Nädal 2 eesmärk on muuta UrbanStyle.ltd andmed usaldusväärseks. Selleks puhastame andmed SQL-iga, mille käigus:
 
 - luuakse turvaline töökeskkond (testkoopiad algsetest tabelitest: `sales_test`, `customers_test`, `products_test`);
 - eemaldatakse duplikaadid (müügitabelist üle 5000 duplikaatrea tuvastamine ja kustutamine);

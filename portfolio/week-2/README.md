@@ -1,16 +1,16 @@
 
-## NÄDAL 2 — SQL Puhastamine
+## NÄDAL 2 — SQL Puhastamise ettevalmistus
 
 Nädal 2 töö jaoks kasutame meeskonna ühist Supabase'i projekti: `urbanstyle-marketing-data`
 
 ## Nädala eesmärk
 
-Nädal 2 eesmärk on muuta UrbanStyle.ltd andmed usaldusväärseks. Selleks puhastame andmed SQL-iga, mille käigus:
+Nädalal 2 keskendtakse UrbanStyle.ltd andmete kvaliteedi põhjalikule diagnoosimisele, turvalise tööprotsessi loomisele ja parandusplaanide ettevalmistusele. Selle käigus:
 
-- luuakse turvaline töökeskkond (testkoopiad algsetest tabelitest: `sales_test`, `customers_test`, `products_test`);
-- eemaldatakse duplikaadid (müügitabelist üle 5000 duplikaatrea tuvastamine ja kustutamine);
-- käsitletakse puuduvaid andmeid (`NULL`);
-- korrastatakse kuupäevad ja tekstid;
+- luuakse turvaline töökeskkond (testkoopiad algsetest tabelitest: `sales_test`, `customers_test`, `products_test`) tagades toorandmete täieliku säilimise ja puutumatuse;
+- kaardistatakse duplikaadid ilma ühtegi rida andmebaasist veel kustutamata;
+- analüüsitakse puuduvaid andmeid (`NULL`) ja kuvatakse päringutasemel;
+- tuvastatakse kuupäevade ja tekstide anomaaliad;
 - dokumenteeritakse tehtud töö.
 
 ## Meeskonnaliikmete rollid

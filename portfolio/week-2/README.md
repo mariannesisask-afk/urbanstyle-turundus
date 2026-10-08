@@ -5,7 +5,7 @@ Nädal 2 töö jaoks kasutame meeskonna ühist Supabase'i projekti: `urbanstyle-
 
 ## Nädala eesmärk
 
-Nädalal 2 keskendtakse UrbanStyle.ltd andmete kvaliteedi põhjalikule diagnoosimisele, turvalise tööprotsessi loomisele ja parandusplaanide ettevalmistusele. Selle käigus:
+Nädalal 2 keskendutakse UrbanStyle.ltd andmete kvaliteedi põhjalikule diagnoosimisele, turvalise tööprotsessi loomisele ja parandusplaanide ettevalmistusele. Selle käigus:
 
 - luuakse turvaline töökeskkond (testkoopiad algsetest tabelitest: `sales_test`, `customers_test`, `products_test`) tagades toorandmete täieliku säilimise ja puutumatuse;
 - kaardistatakse duplikaadid ilma ühtegi rida andmebaasist veel kustutamata;

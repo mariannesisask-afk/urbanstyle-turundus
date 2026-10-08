@@ -24,6 +24,6 @@ Nädalal 2 keskendtakse UrbanStyle.ltd andmete kvaliteedi põhjalikule diagnoosi
 
 ## Väljund
 
-Meeskonna koondraport puhastamise tulemustega:
+Meeskonna koondraport tulemustega:
 
 [W2-session3-demo](https://docs.google.com/presentation/d/1eH0oy5EjVSSXujXePEVqBoE1ndanLZXcpGtI95Zl9yA/edit?usp=sharing)

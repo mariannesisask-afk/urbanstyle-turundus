@@ -1,5 +1,5 @@
 
-## NÄDAL 2 — SQL Puhastamise ettevalmistus
+## NÄDAL 2 — SQL andmekvaliteedi analüüs ja andmete puhastamise ettevalmistus
 
 Nädal 2 töö jaoks kasutame meeskonna ühist Supabase'i projekti: `urbanstyle-marketing-data`
 

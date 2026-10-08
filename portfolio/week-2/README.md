@@ -11,6 +11,7 @@ Nädalal 2 keskendutakse UrbanStyle.ltd andmete kvaliteedi põhjalikule diagnoos
 - kaardistatakse duplikaadid ilma ühtegi rida andmebaasist veel kustutamata;
 - analüüsitakse puuduvaid andmeid (`NULL`) ja kuvatakse päringutasemel;
 - tuvastatakse kuupäevade ja tekstide anomaaliad;
+- teostatakse tabelitevaheline ristvalideerimine ja kvaliteedikontroll;
 - dokumenteeritakse tehtud töö.
 
 ## Meeskonnaliikmete rollid

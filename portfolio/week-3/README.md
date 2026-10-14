@@ -1,12 +1,12 @@
 
 ## NÄDAL 3 — SQL JOINs
 
-Nädalal 3 keskendutakse SQL JOIN-ide omandamisele ja mitme tabeli andmete ühendamisele UrbanStyle.ltd andmebaasis, et lahendada turundusjuht Anna Metsa esitatud äriprobleeme.
-
 ## Nädala eesmärk
 
+Nädalal 3 keskendutakse SQL JOIN-ide omandamisele ja mitme tabeli andmete ühendamisele UrbanStyle.ltd andmebaasis, et lahendada turundusjuht Anna Metsa esitatud äriprobleeme. Selle käigus:
 
-
+- ühendades müügi- ja kliendiandmed (INNER JOIN) tuvastatakse enim kulutanud kliendid, müük piirkondade ning lojaalsutasemete lõikes, et pakkuda sisendit VIP- ja lojaalsuskampaaniatele;
+- ...
 
 
 

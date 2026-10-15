@@ -5,9 +5,10 @@
 
 Nädalal 3 keskendutakse SQL JOIN-ide omandamisele ja mitme tabeli andmete ühendamisele UrbanStyle.ltd andmebaasis, et lahendada turundusjuht Anna Metsa esitatud äriprobleeme. Selle käigus:
 
-- ühendades müügi- ja kliendiandmed (INNER JOIN) tuvastatakse enim kulutanud kliendid, müük piirkondade ning lojaalsutasemete lõikes, et pakkuda sisendit VIP- ja lojaalsuskampaaniatele;
-- ...
-
+- ühendades müügi- ja kliendiandmed (INNER JOIN) tuvastatakse enim kulutanud kliendid, müük piirkondade ning lojaalsutasemete lõikes, et pakkuda sisendit VIP- ja lojaalsuskampaaniatele ning uurida võimalusi kliendibaasi laiendamiseks ja ostukäitumise muutmiseks;
+- ühendades kliendi- ja müügiandmed (LEFT JOIN) tuvastatakse ostudeta kliendid, analüüsitakse nende piirkondlikku jaotust ning registreerimisaegu ja võrreldakse neid aktiivsete klientidega, et pakkuda sisendit klientide aktiveerimise ja turunduskampaaniate planeerimiseks;
+- ühendades toodete, müügi- ja laoandmed (LEFT JOIN) tuvastatakse müümata tooted, analüüsitakse müügitulemusi tootekategooriate lõikes ning hinnatakse laoseise, et pakkuda soovitusi tootevaliku optimeerimiseks, laovarude juhtimiseks ja turundustegevuste planeerimiseks;
+- ühendades müügi-, kliendi- ja tooteandmed (INNER JOIN) analüüsitakse müügikanalite tulemuslikkust, klientide piirkondlikku jaotust ning tootekategooriate müüki kanalite lõikes, et tuvastada kõige efektiivsemad müügikanalid ja pakkuda soovitusi turundustegevuste optimeerimiseks.
 
 
 ## Meeskonnaliikmete rollid

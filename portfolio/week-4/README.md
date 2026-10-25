@@ -3,13 +3,17 @@
 
 ## Nädala eesmärk
 
+- **SQL agregeerimine (`GROUP BY` ja agregaatfunktsioonid):** Koondada toorandmed juhtkonnale vajalikeks näitajateks, kasutades funktsioone `COUNT`, `SUM`, `AVG`, `MIN` ja `MAX`.
 
+- **Grupitaseme filtreerimine (`HAVING`):** Mõista `WHERE` ja `HAVING` erinevust ning kasutada grupitaseme filtreerimist andmevigade ja laoandmete anomaaliate tuvastamiseks.
 
+- **Päringute struktureerimine (`CTE`):** Kasutada ühiseid tabeliavaldisi (`WITH`), et jagada keerukad SQL-päringud loogilisteks ja paremini hallatavateks sammudeks.
 
+- **Aknafunktsioonid (`Window Functions`):** Arvutada koondnäitajaid algseid ridu säilitades, kasutades funktsioone `ROW_NUMBER()`, `LAG()` ja `SUM() OVER()` TOP-N toodete, müügitrendide ja jooksva käibe analüüsimiseks.
 
+- **Äriliste võtmenäitajate (`KPI`) arvutamine:** Arvutada keskmine tellimusväärtus (`AOV`), segmenteerida kliendid ostumahu järgi ning analüüsida müüki linnade, nädalapäevade ja ökotoodete lõikes.
 
-
-
+- **Ärilised järeldused ja portfoolio:** Tõlgendada SQL-analüüsi tulemusi konkreetseteks ärilisteks soovitusteks ning dokumenteerida kommenteeritud SQL-skriptid GitHubi portfoolios.
 
 ## Meeskonnaliikmete rollid
 

@@ -8,7 +8,7 @@ Meeskonna eesmärk on viimistleda eelmise nädala dashboard'i prototüüp ning m
 Iga meeskonnaliige analüüsib oma vastutusala (Tallinna, Tartu või Pärnu kauplus või e-pood) ning loob selle põhjal interaktiivse dashboard'i koos andmelooga. Seejärel ühendame individuaalsed tulemused ühtseks juhtimisvaateks, mis toob esile asukohtade erinevused, ühised mustrid ja andmetel põhinevad soovitused.
 
 
-- [ ] **Individuaalsete dashboard'ide loomine:** Viimistleda iga vastutusala jaoks interaktiivne dashboard, mis sisaldab 3–5 diagrammi ja peamisi KPI-sid.
+**Individuaalsete dashboard'ide loomine:** Viimistleda iga vastutusala jaoks interaktiivne dashboard, mis sisaldab 3–5 diagrammi ja peamisi KPI-sid.
 - [ ] **Andmete visualiseerimine:** Lisada igale dashboard'ile vähemalt kaks annotatsiooni oluliste sündmuste, trendide või kõrvalekallete selgitamiseks ning vähemalt üks eesmärgi- või võrdlusjoon.
 - [ ] **Juhtide kokkuvõtete koostamine:** Sõnastada iga vastutusala kohta 3–5 peamist järeldust, mis selgitavad andmete ärilist tähendust.
 - [ ] **Andmelugude loomine:** Koostada iga vastutusala kohta 3–4 lausest koosnev narratiiv, mis kirjeldab olukorda, peamisi andmeleidusid ja soovitatavat tegevust.

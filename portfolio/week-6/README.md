@@ -1,5 +1,5 @@
 
-## NÄDAL 6 — Visualiseerimise andmed
+## NÄDAL 6 — Andmete visualiseerimine
 
 ## Nädala eesmärgid
 

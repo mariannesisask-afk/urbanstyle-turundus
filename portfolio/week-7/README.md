@@ -3,9 +3,9 @@
 
 ## Nädala eesmärgid
 
-Tutvumine Pythoni ja pandas'ega, mis toimivad SQL-i loogilise jätkuna, pakkudes palju võimsamaid võimalusi andmete töötlemiseks. Peamine eesmärk on õppida klientide segmenteerimist RFM raamistiku abil (Recency, Frequency, Monetary), mis võimaldab eristada näiteks VIP-kliente ja ohus olevaid ostjaid sihitud turunduskampaaniate jaoks. Praktiline osa viiakse läbi Jupyter Notebookis.
+Tutvumine Pythoni ja pandas'ega, mis toimivad SQL-i loogilise jätkuna, pakkudes palju võimsamaid võimalusi andmete töötlemiseks. Peamine eesmärk on õppida klientide segmenteerimist RFM raamistiku abil (Recency, Frequency, Monetary), mis võimaldab eristada näiteks VIP-kliente ja ohus olevaid ostjaid sihitud turunduskampaaniate jaoks. 
 
-Meeskond viib läbi RFM (Recency, Frequency, Monetary) analüüsi UrbanStyle.ltd kliendiandmetel Python pandas abil ja esitab Markole konkreetsed soovitused. 
+Meeskond viib läbi RFM (Recency, Frequency, Monetary) analüüsi Python pandas abil Jupyter Notebookis ja esitab Markole konkreetsed soovitused. 
 
 ## Meeskonnaliikmete rollid
 

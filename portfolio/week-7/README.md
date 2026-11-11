@@ -17,6 +17,6 @@ Meeskond viib läbi RFM (Recency, Frequency, Monetary) analüüsi UrbanStyle.ltd
 
 ## Väljund
 
-Uks terviklik Jupyter Notebook, kus iga sektsioon on koostatud uhe meeskonnaliikme poolt. Notebook jookseb algusest lõpuni ilma veata. 
+Üks terviklik Jupyter Notebook, kus iga sektsioon on koostatud ühe meeskonnaliikme poolt. Notebook jookseb algusest lõpuni ilma veata. 
 
 [RFM analysis marketing](week7_rfm_analysis_marketing.ipynb)

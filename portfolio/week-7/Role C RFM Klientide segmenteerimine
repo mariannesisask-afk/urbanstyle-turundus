@@ -1,13 +1,33 @@
-ROLL C - klientide segmenteerimine
+# Nädal 7: Python Pandas — RFM kliendisegmenteerimine
 
-Eesmärk: Arvutada iga kliendi ostude hiljutisus (Recency), sagedus (Frequency) ja rahaline maht (Monetary) ning jagada kliendid skooride (1–5) alusel 5 ärisegmendiks.
-Kvaliteedikontroll ja tulemused:
-Recency, Frequency, Monetary on edukalt arvutatud ja liidetud koondtabelisse rfm.
-Skoorid (1–5) on määratud kvintiilide alusel.
-Peamised leiud segmentide lõikes:
-VIP Champions (skoor 13–15): [Sisesta oma koodi väljundist klientide arv ja %]
-Loyal Customers (skoor 10–12): [Sisesta arv ja %]
-Potential Loyalists (skoor 7–9): [Sisesta arv ja %]
-At Risk (skoor 4–6): [Sisesta arv ja %]
-Lost (skoor 3): [Sisesta arv ja %]
-Järeldus: Andmed on segmenteeritud ja koondtabel rfm on valmis üleandmiseks Roll D-le (visualiseerimiseks ja äritõlgenduseks)
+## Äriline kontekst
+UrbanStyle.ltd tootehaldur Marko Saar vajab klienditasemel RFM-analüüsi (Recency, Frequency, Monetary), et paremini mõista ostukäitumist ning luua segmenteeritud turunduskampaaniad (VIP-programm, tagasivõtmiskampaaniad).
+
+---
+
+## Minu roll: Roll C — RFM Analüüs (Analysis)
+- **Sisend:** Puhastatud müügi- ja kliendiandmete DataFrame.
+- **Teostatud tegevused:**
+  1. Arvutasin iga kliendi kohta **Recency** (päevi viimasest ostust), **Frequency** (ostude arv) ja **Monetary** (kogukulutus) väärtused.
+  2. Määrasin näitajatele kvintiilide alusel skoorid 1–5 (`pd.qcut()`), arvestades Recency puhul pööratud skaalat ja Frequency puhul `.rank(method='first')` eripära.
+  3. Arvutasin `RFM_Score` (vahemik 3–15) ja omistasin igale kliendile ärisegmendi.
+
+---
+
+## Peamised leiud
+- **VIP Champions (skoor 13–15):** [Sisesta klientide arv] klienti ([Sisesta %]%)
+- **Loyal Customers (skoor 10–12):** [Sisesta klientide arv] klienti ([Sisesta %]%)
+- **Potential Loyalists (skoor 7–9):** [Sisesta klientide arv] klienti ([Sisesta %]%)
+- **At Risk (skoor 4–6):** [Sisesta klientide arv] klienti ([Sisesta %]%)
+- **Lost (skoor 3):** [Sisesta klientide arv] klienti ([Sisesta %]%)
+
+---
+
+## AI kasutamine
+Kasutasin AI-d `pd.qcut()` süntaksi mõistmiseks, Recency skoori pöördloogika selgitamiseks ning `ValueError` vea silumiseks.
+
+---
+
+## Kaustastruktuur
+- Minu kood: `week-7/individual/week7_rfm_roll_c.ipynb`
+- Meeskonna ühistöö: `week-7/team/week7_rfm_complete.ipynb`

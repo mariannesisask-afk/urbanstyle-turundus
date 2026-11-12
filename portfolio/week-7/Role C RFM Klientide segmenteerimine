@@ -1,0 +1,13 @@
+ROLL C - klientide segmenteerimine
+
+Eesmärk: Arvutada iga kliendi ostude hiljutisus (Recency), sagedus (Frequency) ja rahaline maht (Monetary) ning jagada kliendid skooride (1–5) alusel 5 ärisegmendiks.
+Kvaliteedikontroll ja tulemused:
+Recency, Frequency, Monetary on edukalt arvutatud ja liidetud koondtabelisse rfm.
+Skoorid (1–5) on määratud kvintiilide alusel.
+Peamised leiud segmentide lõikes:
+VIP Champions (skoor 13–15): [Sisesta oma koodi väljundist klientide arv ja %]
+Loyal Customers (skoor 10–12): [Sisesta arv ja %]
+Potential Loyalists (skoor 7–9): [Sisesta arv ja %]
+At Risk (skoor 4–6): [Sisesta arv ja %]
+Lost (skoor 3): [Sisesta arv ja %]
+Järeldus: Andmed on segmenteeritud ja koondtabel rfm on valmis üleandmiseks Roll D-le (visualiseerimiseks ja äritõlgenduseks)

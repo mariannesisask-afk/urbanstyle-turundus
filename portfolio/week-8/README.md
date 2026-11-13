@@ -3,7 +3,7 @@
 
 ## Nädala eesmärk
 
-Meeskond loob automaatse andmetöötluse torustikku ehk pipeline’i:
+Meeskond loob automaatse andmetöötluse torustiku ehk pipeline’i:
 1. Pärib andmed UrbanStyle.ltd Supabase API-st
 2. Töötleb andmed pandas pipeline'iga (puhastamine + transformeerimine)
 3. Visualiseerib tulemused ja salvestab failidesse

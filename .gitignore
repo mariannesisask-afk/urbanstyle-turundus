@@ -1,0 +1,10 @@
+# Supabase'i ühendusandmed
+.env
+
+# Pythoni ajutised failid
+__pycache__/
+*.pyc
+
+# Virtuaalkeskkond
+venv/
+.venv/

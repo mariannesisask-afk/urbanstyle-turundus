@@ -1,3 +1,4 @@
+
 # Roll A - API Query
 
 # %% 1. TEEKIDE IMPORTIMINE
@@ -205,93 +206,95 @@ def fetch_products():
         print(f"Viga tooteandmete pärimisel: {e}")
         return pd.DataFrame()
 
+# Käivitame testid ainult siis, kui data_fetcher.py käivitatakse eraldi
+if __name__ == "__main__":
 
 
-# %%  Kontrollime müügiandmete kuupäevade vahemikku
-date_response = (
-    supabase.table("sales")
-    .select("sale_date")
-    .order("sale_date")
-    .limit(1)
-    .execute()
-)
+    # %%  Kontrollime müügiandmete kuupäevade vahemikku
+    date_response = (
+        supabase.table("sales")
+        .select("sale_date")
+        .order("sale_date")
+        .limit(1)
+        .execute()
+    )
 
-print("Varaseim müügikuupäev:", date_response.data)
+    print("Varaseim müügikuupäev:", date_response.data)
 
-date_response = (
-    supabase.table("sales")
-    .select("sale_date")
-    .order("sale_date", desc=True)
-    .limit(1)
-    .execute()
-)
+    date_response = (
+        supabase.table("sales")
+        .select("sale_date")
+        .order("sale_date", desc=True)
+        .limit(1)
+        .execute()
+    )
 
-print("Hiliseim müügikuupäev:", date_response.data)
-
-
-
-# %% 7. MÜÜGIANDMETE PÄRIMISE TEST
-
-sales_df = fetch_sales(
-    start_date="2023-01-01",
-    end_date="2026-06-28"
-)
-
-print("\nMüügiandmete ülevaade:")
-print(sales_df.shape)
-print(sales_df.head())
-
-# %% 8. KLIENTIDE ANDMETE PÄRIMISE TEST
-
-customers_df = fetch_customers()
-
-print("\nKlientide andmete ülevaade:")
-print(customers_df.shape)
-print(customers_df.head())
+    print("Hiliseim müügikuupäev:", date_response.data)
 
 
-# %% 9. TOODETE ANDMETE PÄRIMISE TEST
 
-products_df = fetch_products()
+    # %% 7. MÜÜGIANDMETE PÄRIMISE TEST
 
-print("\nToodete andmete ülevaade:")
-print(products_df.shape)
-print(products_df.head())
+    sales_df = fetch_sales(
+        start_date="2023-01-01",
+        end_date="2026-06-28"
+    )
+
+    print("\nMüügiandmete ülevaade:")
+    print(sales_df.shape)
+    print(sales_df.head())
+
+    # %% 8. KLIENTIDE ANDMETE PÄRIMISE TEST
+
+    customers_df = fetch_customers()
+
+    print("\nKlientide andmete ülevaade:")
+    print(customers_df.shape)
+    print(customers_df.head())
 
 
-# %% 10. ANDMETE SALVESTAMINE CSV-FAILIDENA
+    # %% 9. TOODETE ANDMETE PÄRIMISE TEST
 
-sales_df.to_csv("sales.csv", index=False, encoding="utf-8-sig")
-customers_df.to_csv("customers.csv", index=False, encoding="utf-8-sig")
-products_df.to_csv("products.csv", index=False, encoding="utf-8-sig")
+    products_df = fetch_products()
 
-print("Kõik kolm CSV-faili on salvestatud!")
+    print("\nToodete andmete ülevaade:")
+    print(products_df.shape)
+    print(products_df.head())
 
-# %% 11. CSV-FAILIDE KONTROLL
 
-sales_check = pd.read_csv("sales.csv")
-customers_check = pd.read_csv("customers.csv")
-products_check = pd.read_csv("products.csv")
+    # %% 10. ANDMETE SALVESTAMINE CSV-FAILIDENA
 
-print("Müügiandmed:", sales_check.shape)
-print("Kliendiandmed:", customers_check.shape)
-print("Tooteandmed:", products_check.shape)
+    sales_df.to_csv("sales.csv", index=False, encoding="utf-8-sig")
+    customers_df.to_csv("customers.csv", index=False, encoding="utf-8-sig")
+    products_df.to_csv("products.csv", index=False, encoding="utf-8-sig")
 
-# %% 12. KLIENTIDE E-POSTI AADRESSIDE KONTROLL
+    print("Kõik kolm CSV-faili on salvestatud!")
 
-total_customers = len(customers_df)
+    # %% 11. CSV-FAILIDE KONTROLL
 
-emails_available = customers_df["email"].notna().sum()
-emails_missing = customers_df["email"].isna().sum()
+    sales_check = pd.read_csv("sales.csv")
+    customers_check = pd.read_csv("customers.csv")
+    products_check = pd.read_csv("products.csv")
 
-print("Kliente kokku:", total_customers)
-print("E-posti aadress olemas:", emails_available)
-print("E-posti aadress puudub:", emails_missing)
+    print("Müügiandmed:", sales_check.shape)
+    print("Kliendiandmed:", customers_check.shape)
+    print("Tooteandmed:", products_check.shape)
 
-print(
-    "E-posti aadresside olemasolu:",
-    round(emails_available / total_customers * 100, 2),
-    "%"
+    # %% 12. KLIENTIDE E-POSTI AADRESSIDE KONTROLL
+
+    total_customers = len(customers_df)
+
+    emails_available = customers_df["email"].notna().sum()
+    emails_missing = customers_df["email"].isna().sum()
+
+    print("Kliente kokku:", total_customers)
+    print("E-posti aadress olemas:", emails_available)
+    print("E-posti aadress puudub:", emails_missing)
+
+    print(
+        "E-posti aadresside olemasolu:",
+        round(emails_available / total_customers * 100, 2),
+        "%"
 )
 
 

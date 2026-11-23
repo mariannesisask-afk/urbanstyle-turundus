@@ -11,7 +11,7 @@ Meeskond loob UrbanStyle värbamisjuhendi tööandja vaatepunktist.
 | Nimi | Roll (Nädal 9) | OS |
 |---|---|---|
 | Katariina Raid | A+D: Palkamisjuhi + tiimijuhi vaade| Windows |
-| Marianne Sisask | B: Tehniline intervjueerija vaade| Mac |
+| Marianne Sisask | B: Tehnilise intervjueerija vaade| Mac |
 | Kerty Kaljumäe | C: Personalijuhi vaade  | Windows |
 
 

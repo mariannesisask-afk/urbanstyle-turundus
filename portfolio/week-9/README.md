@@ -3,7 +3,7 @@
 
 ## Nädala eesmärk
 
-Meeskond loob UrbanStyle värbamisjuhendi tööandja vaatepunktist.
+Meeskond loob UrbanStyle värbamisjuhendi tööandja vaatepunktist. Iga roll annab oma vaatepunktist ühe osa meeskonna värbamisjuhendist — üldised tööandja kriteeriumid (rohelised/punased lipud, mida see roll otsib). Rollide tulemused liidetakse üheks terviklikuks juhendiks.
 
 
 ## Meeskonnaliikmete rollid

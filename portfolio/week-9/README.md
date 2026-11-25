@@ -18,7 +18,7 @@ Meeskond loob UrbanStyle värbamisjuhendi tööandja vaatepunktist. Iga roll ann
 ## Väljund
 Väljundiks on värbamisjuhend (meeskonna ühine dokument). 
 
-Link:
+Link: (Värbamisjuhend)[https://docs.google.com/document/d/18Pxav5KdBCCKxk6STuajqfDFPK3LOcyhCh5LTSsz8xc/edit?usp=sharing]
 
 
 
